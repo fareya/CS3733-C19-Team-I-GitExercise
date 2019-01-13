@@ -6,5 +6,6 @@ public class teamlist {
         System.out.println("Stephen Lucas");
         System.out.println("Eric Carkin");
         System.out.println("Gabriel Rodriguez");
+        System.out.println("Rachael Sallie");
     }
 }
