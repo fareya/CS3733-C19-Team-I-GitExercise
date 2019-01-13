@@ -4,6 +4,7 @@ public class teamlist {
         System.out.println("Yossef Naim");
         System.out.println("Grant Ferguson");
         System.out.println("Jeremy Wong");
+        System.out.println("Eric Carkin");
         System.out.println("Gabriel Rodriguez");
     }
 }
